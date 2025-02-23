@@ -1,0 +1,6 @@
+hf_dataset:
+  name: "billsum"
+  train_split: "train[:1000]"
+  test_split: "train[-100:]"
+  prompt_feature: "text"
+  completion_feature: "summary"

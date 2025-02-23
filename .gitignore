@@ -169,3 +169,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# generated during training
+adapters
+
+# ide
+.idea
